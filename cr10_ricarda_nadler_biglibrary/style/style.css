@@ -1,0 +1,35 @@
+.navbar {
+  background-color: darkblue;
+  color: #ffffff; }
+
+.page-footer {
+  background-color: darkblue;
+  color: #ffffff; }
+
+main {
+  background-color: white;
+  width : 80%;
+  margin: auto;
+  margin-top: 20px;
+  margin-bottom: 20px; }
+
+.nav-link {
+  color: lightblue; }
+
+.manageUser {
+	width : 80%;
+	margin: auto; }
+
+table {
+	width: 100%;
+	margin-top: 20px; }
+
+fieldset {
+           margin: auto;
+            margin-top: 100px;
+           width: 50% ;
+       }
+
+table tr th  {
+           padding-top: 20px;
+       }
